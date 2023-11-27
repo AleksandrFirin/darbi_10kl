@@ -1,0 +1,45 @@
+.foto1 {
+    width: 70px;
+    margin-bottom: 20%;
+    float: right;
+    margin-left: 30%;
+}
+.foto2 {
+    width: 100px;
+    float: left;
+    margin-top: 5%;
+}
+.foto3 {
+    margin-top: 10%;
+    width: 500px;
+    margin-left: 30%;
+}
+.foto4 {
+    float: left;
+    width: 100px;
+}
+.centret-saturu {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #33a0d1;
+}
+body {
+font-family: 'Exo 2', sans-serif;
+background-color: #e6e6e7; 
+}
+h1 {
+    margin-left: 30%;
+font-size: 250% ;
+}
+p {
+    font-size: 150% ;
+    text-align: justify;
+}
+.kraj {
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 5%;
+margin-bottom: 5%;
+}
